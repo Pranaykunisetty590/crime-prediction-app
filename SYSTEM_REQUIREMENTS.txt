@@ -31,7 +31,7 @@ Libraries Used:
   - folium (interactive maps and heatmaps)
   - lightgbm (LightGBM classifier for crime type prediction)
   - prophet (optional; time-series forecasting)
-  - import matplotlib
+  - import matplotlib.pyplot as plt
 
 Operating System: Windows 10/11, macOS 10.14+, or Linux
 
