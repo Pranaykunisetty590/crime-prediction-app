@@ -11,7 +11,7 @@ import streamlit as st
 # Must be first Streamlit command
 st.set_page_config(page_title="Crime Prediction System", page_icon="🚔", layout="wide")
 
-import matplotlib
+import matplotlib.pyplot as plt
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
